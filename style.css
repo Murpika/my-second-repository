@@ -1,0 +1,26 @@
+strong{
+  display: block;
+}
+
+.bold-text{
+  font-weight: bold;
+}
+
+input {
+    margin: 0.4rem;
+  }
+
+
+div{
+  display: block;
+}
+
+#szovegInputMezo{
+  padding: 70px; 
+  padding-right: 400px;
+}
+
+button{
+  margin-top: 10px;
+  padding: 10px;
+}
